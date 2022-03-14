@@ -2,7 +2,9 @@ import rx.Observable;
 import rx.functions.Func2;
 
 import java.util.ArrayList;
-
+/*
+ * @author Oscar Escobar
+ */
 public class Ejercicio2 {
     public static void main(String[] args) {
         ArrayList<Consola> consolas = new ArrayList<>();
